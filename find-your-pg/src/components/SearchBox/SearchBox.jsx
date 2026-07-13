@@ -1,4 +1,4 @@
-//import { FaMapMarkerAlt, FaSearch } from "react-icons/fa";
+import { FaSearch } from "react-icons/fa";
 import "./SearchBox.css";
 
 function SearchBox() {

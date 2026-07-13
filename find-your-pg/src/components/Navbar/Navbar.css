@@ -8,7 +8,7 @@
 
 .navbar-scroll{
   background: rgba(255,255,255,.75);
-  backdrop-filter: blur(15px);
+  /* backdrop-filter: blur(15px); */
   box-shadow:0 5px 20px rgba(0,0,0,.08);
 }
 

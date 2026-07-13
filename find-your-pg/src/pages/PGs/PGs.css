@@ -1,0 +1,30 @@
+.pg-page{
+    padding:130px 0 80px;
+    background:#f5f7fb;
+}
+
+.pg-layout{
+    display:grid;
+    grid-template-columns:300px 1fr;
+    gap:30px;
+}
+
+.pg-content{
+    display:flex;
+    flex-direction:column;
+    gap:25px;
+}
+
+.pg-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(330px,1fr));
+    gap:28px;
+}
+
+@media(max-width:992px){
+
+.pg-layout{
+grid-template-columns:1fr;
+}
+
+}

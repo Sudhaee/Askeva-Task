@@ -1,0 +1,55 @@
+.filter-sidebar{
+
+background:white;
+
+padding:25px;
+
+border-radius:18px;
+
+box-shadow:0 10px 20px rgba(0,0,0,.06);
+
+position:sticky;
+
+top:100px;
+
+height:max-content;
+
+}
+
+.filter-sidebar h2{
+
+margin-bottom:25px;
+
+}
+
+.filter-box{
+
+margin-bottom:30px;
+
+}
+
+.filter-box h4{
+
+margin-bottom:15px;
+
+color:#0F766E;
+
+}
+
+.filter-box label{
+
+display:block;
+
+margin-bottom:10px;
+
+cursor:pointer;
+
+}
+
+.filter-box input[type="range"]{
+
+width:100%;
+
+accent-color:#14B8A6;
+
+}
